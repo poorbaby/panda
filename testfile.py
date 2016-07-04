@@ -1,14 +1,9 @@
 
 # coding: utf-8
 
-# In[2]:
-
-for i in range(5):
-    print 'tahnk you!'
-
-
 # In[1]:
 
+get_ipython().magic(u'matplotlib inline')
 import numpy as np
 import matplotlib.pyplot as plt
 
